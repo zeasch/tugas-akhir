@@ -1,0 +1,13 @@
+10/10 [==============================] - 2s 3ms/step - ARP: 4.0258 - DCG: 297527712.0000 - Hits@5: 0.5000 - MRR@5: 0.5000 - MRR@10: 0.5000 - MAP@5: 0.2778 - MAP@10: 0.2778 - NDCG: 0.4688 - OPA: 0.2267 - Precision@5: 0.2000 - Recall@5: 0.3333 - auc: 0.0000e+00 - loss: -3197477094.1768 - regularization_loss: 0.0000e+00 - total_loss: -3197477094.1768 
+ARP of the Sigmoid Cross Entropy Model: 4.0258
+DCG of the Sigmoid Cross Entropy Model: 297527712.0000
+Hits@5 of the Sigmoid Cross Entropy Model: 0.5000
+MRR@5 of the Sigmoid Cross Entropy Model: 0.5000
+MRR@10 of the Sigmoid Cross Entropy Model: 0.5000
+MAP@5 of the Sigmoid Cross Entropy Model: 0.2778
+MAP@10 of the Sigmoid Cross Entropy Model: 0.2778
+NDCG of the Sigmoid Cross Entropy Model: 0.4688
+OPA of the Sigmoid Cross Entropy Model: 0.2267
+Precision@5 of the Sigmoid Cross Entropy Model: 0.2000
+Recall@5 of the Sigmoid Cross Entropy Model: 0.3333
+AUC of the Sigmoid Cross Entropy Model: 0.0000

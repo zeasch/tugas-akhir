@@ -1,0 +1,13 @@
+10/10 [==============================] - 2s 4ms/step - ARP: 3.6642 - DCG: 363706248761180160.0000 - Hits@5: 0.5000 - MRR@5: 0.2500 - MRR@10: 0.2500 - MAP@5: 0.1500 - MAP@10: 0.2333 - NDCG: 0.4434 - OPA: 0.7742 - Precision@5: 0.2000 - Recall@5: 0.3333 - auc: 0.5000 - loss: 159.9669 - regularization_loss: 0.0000e+00 - total_loss: 159.9669     
+ARP of the Softmax Model: 3.6642
+DCG of the Softmax Model: 363706248761180160.0000
+Hits@5 of the Softmax Model: 0.5000
+MRR@5 of the Softmax Model: 0.2500
+MRR@10 of the Softmax Model: 0.2500
+MAP@5 of the Softmax Model: 0.1500
+MAP@10 of the Softmax Model: 0.2333
+NDCG of the Softmax Model: 0.4434
+OPA of the Softmax Model: 0.7742
+Precision@5 of the Softmax Model: 0.2000
+Recall@5 of the Softmax Model: 0.3333
+AUC of the Softmax Model: 0.5000

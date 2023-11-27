@@ -1,0 +1,200 @@
+Epoch 1/100
+250/250 [==============================] - 7s 3ms/step - ARP: 17.2444 - DCG: nan - Hits@5: 0.3600 - MRR@5: 0.2071 - MRR@10: 0.2239 - MAP@5: 0.0710 - MAP@10: 0.0965 - NDCG: nan - OPA: 0.6409 - Precision@5: 0.1112 - Recall@5: 0.1309 - auc: 0.5525 - loss: -0.1105 - regularization_loss: 0.0000e+00 - total_loss: -0.1105                                  
+Epoch 2/100
+250/250 [==============================] - 1s 3ms/step - ARP: 7.2879 - DCG: nan - Hits@5: 0.4240 - MRR@5: 0.2785 - MRR@10: 0.2969 - MAP@5: 0.1115 - MAP@10: 0.1425 - NDCG: nan - OPA: 0.6971 - Precision@5: 0.1464 - Recall@5: 0.1875 - auc: 0.5954 - loss: -0.1943 - regularization_loss: 0.0000e+00 - total_loss: -0.1943           
+Epoch 3/100
+250/250 [==============================] - 1s 2ms/step - ARP: 7.2698 - DCG: nan - Hits@5: 0.4240 - MRR@5: 0.2739 - MRR@10: 0.2927 - MAP@5: 0.1085 - MAP@10: 0.1354 - NDCG: nan - OPA: 0.6991 - Precision@5: 0.1416 - Recall@5: 0.1869 - auc: 0.6010 - loss: -0.2013 - regularization_loss: 0.0000e+00 - total_loss: -0.2013
+Epoch 4/100
+250/250 [==============================] - 1s 2ms/step - ARP: 6.6270 - DCG: nan - Hits@5: 0.4240 - MRR@5: 0.2687 - MRR@10: 0.2904 - MAP@5: 0.1047 - MAP@10: 0.1405 - NDCG: nan - OPA: 0.6993 - Precision@5: 0.1392 - Recall@5: 0.1868 - auc: 0.6046 - loss: -0.2073 - regularization_loss: 0.0000e+00 - total_loss: -0.2073  
+Epoch 5/100
+250/250 [==============================] - 1s 3ms/step - ARP: 6.1689 - DCG: nan - Hits@5: 0.4520 - MRR@5: 0.2773 - MRR@10: 0.2941 - MAP@5: 0.1092 - MAP@10: 0.1403 - NDCG: nan - OPA: 0.6979 - Precision@5: 0.1432 - Recall@5: 0.1979 - auc: 0.6003 - loss: -0.2109 - regularization_loss: 0.0000e+00 - total_loss: -0.2109                    
+Epoch 6/100
+250/250 [==============================] - 1s 2ms/step - ARP: 7.0089 - DCG: nan - Hits@5: 0.4360 - MRR@5: 0.2762 - MRR@10: 0.2974 - MAP@5: 0.1098 - MAP@10: 0.1422 - NDCG: nan - OPA: 0.7021 - Precision@5: 0.1424 - Recall@5: 0.1915 - auc: 0.5998 - loss: -0.2138 - regularization_loss: 0.0000e+00 - total_loss: -0.2138                                              
+Epoch 7/100
+250/250 [==============================] - 1s 2ms/step - ARP: 6.3010 - DCG: nan - Hits@5: 0.4360 - MRR@5: 0.2742 - MRR@10: 0.2944 - MAP@5: 0.1071 - MAP@10: 0.1395 - NDCG: nan - OPA: 0.6985 - Precision@5: 0.1408 - Recall@5: 0.1920 - auc: 0.6018 - loss: -0.2111 - regularization_loss: 0.0000e+00 - total_loss: -0.2111                                              
+Epoch 8/100
+250/250 [==============================] - 1s 2ms/step - ARP: 6.8866 - DCG: nan - Hits@5: 0.4720 - MRR@5: 0.2811 - MRR@10: 0.2991 - MAP@5: 0.1116 - MAP@10: 0.1461 - NDCG: nan - OPA: 0.7013 - Precision@5: 0.1512 - Recall@5: 0.2098 - auc: 0.6103 - loss: -0.2128 - regularization_loss: 0.0000e+00 - total_loss: -0.2128                       
+Epoch 9/100
+250/250 [==============================] - 1s 2ms/step - ARP: 6.2453 - DCG: nan - Hits@5: 0.4640 - MRR@5: 0.2791 - MRR@10: 0.2964 - MAP@5: 0.1114 - MAP@10: 0.1429 - NDCG: nan - OPA: 0.7024 - Precision@5: 0.1488 - Recall@5: 0.2042 - auc: 0.6058 - loss: -0.2113 - regularization_loss: 0.0000e+00 - total_loss: -0.2113                                             
+Epoch 10/100
+250/250 [==============================] - 1s 2ms/step - ARP: 6.4502 - DCG: nan - Hits@5: 0.4480 - MRR@5: 0.2748 - MRR@10: 0.2947 - MAP@5: 0.1059 - MAP@10: 0.1406 - NDCG: nan - OPA: 0.7005 - Precision@5: 0.1408 - Recall@5: 0.1916 - auc: 0.6072 - loss: -0.2102 - regularization_loss: 0.0000e+00 - total_loss: -0.2102                                           
+Epoch 11/100
+250/250 [==============================] - 1s 2ms/step - ARP: 6.6302 - DCG: nan - Hits@5: 0.4600 - MRR@5: 0.2824 - MRR@10: 0.3004 - MAP@5: 0.1159 - MAP@10: 0.1439 - NDCG: nan - OPA: 0.7045 - Precision@5: 0.1528 - Recall@5: 0.2108 - auc: 0.6142 - loss: -0.2117 - regularization_loss: 0.0000e+00 - total_loss: -0.2117
+Epoch 12/100
+250/250 [==============================] - 1s 2ms/step - ARP: 6.3147 - DCG: nan - Hits@5: 0.4280 - MRR@5: 0.2761 - MRR@10: 0.3006 - MAP@5: 0.1124 - MAP@10: 0.1496 - NDCG: nan - OPA: 0.7058 - Precision@5: 0.1448 - Recall@5: 0.1898 - auc: 0.6117 - loss: -0.2122 - regularization_loss: 0.0000e+00 - total_loss: -0.2122       
+Epoch 13/100
+250/250 [==============================] - 1s 2ms/step - ARP: 5.6061 - DCG: nan - Hits@5: 0.4440 - MRR@5: 0.2813 - MRR@10: 0.3015 - MAP@5: 0.1142 - MAP@10: 0.1458 - NDCG: nan - OPA: 0.7042 - Precision@5: 0.1448 - Recall@5: 0.1979 - auc: 0.6092 - loss: -0.2165 - regularization_loss: 0.0000e+00 - total_loss: -0.2165         
+Epoch 14/100
+250/250 [==============================] - 1s 2ms/step - ARP: 5.7778 - DCG: nan - Hits@5: 0.4360 - MRR@5: 0.2781 - MRR@10: 0.3004 - MAP@5: 0.1109 - MAP@10: 0.1446 - NDCG: nan - OPA: 0.7046 - Precision@5: 0.1400 - Recall@5: 0.1864 - auc: 0.6113 - loss: -0.2131 - regularization_loss: 0.0000e+00 - total_loss: -0.2131
+Epoch 15/100
+250/250 [==============================] - 1s 3ms/step - ARP: 5.9125 - DCG: nan - Hits@5: 0.4280 - MRR@5: 0.2753 - MRR@10: 0.2987 - MAP@5: 0.1090 - MAP@10: 0.1458 - NDCG: nan - OPA: 0.7058 - Precision@5: 0.1384 - Recall@5: 0.1838 - auc: 0.6180 - loss: -0.2110 - regularization_loss: 0.0000e+00 - total_loss: -0.2110
+Epoch 16/100
+250/250 [==============================] - 1s 3ms/step - ARP: 5.8487 - DCG: nan - Hits@5: 0.4440 - MRR@5: 0.2797 - MRR@10: 0.3018 - MAP@5: 0.1112 - MAP@10: 0.1476 - NDCG: nan - OPA: 0.7066 - Precision@5: 0.1408 - Recall@5: 0.1919 - auc: 0.6213 - loss: -0.2147 - regularization_loss: 0.0000e+00 - total_loss: -0.2147
+Epoch 17/100
+250/250 [==============================] - 1s 2ms/step - ARP: 5.8326 - DCG: nan - Hits@5: 0.4400 - MRR@5: 0.2797 - MRR@10: 0.3036 - MAP@5: 0.1111 - MAP@10: 0.1500 - NDCG: nan - OPA: 0.7077 - Precision@5: 0.1424 - Recall@5: 0.1860 - auc: 0.6292 - loss: -0.2156 - regularization_loss: 0.0000e+00 - total_loss: -0.2156   
+Epoch 18/100
+250/250 [==============================] - 1s 2ms/step - ARP: 5.7161 - DCG: nan - Hits@5: 0.4360 - MRR@5: 0.2848 - MRR@10: 0.3096 - MAP@5: 0.1123 - MAP@10: 0.1538 - NDCG: nan - OPA: 0.7078 - Precision@5: 0.1424 - Recall@5: 0.1831 - auc: 0.6356 - loss: -0.2180 - regularization_loss: 0.0000e+00 - total_loss: -0.2180                                              
+Epoch 19/100
+250/250 [==============================] - 1s 2ms/step - ARP: 5.2707 - DCG: nan - Hits@5: 0.4720 - MRR@5: 0.2921 - MRR@10: 0.3135 - MAP@5: 0.1212 - MAP@10: 0.1612 - NDCG: nan - OPA: 0.7125 - Precision@5: 0.1544 - Recall@5: 0.2197 - auc: 0.6449 - loss: -0.2247 - regularization_loss: 0.0000e+00 - total_loss: -0.2247                                            
+Epoch 20/100
+250/250 [==============================] - 1s 2ms/step - ARP: 4.4011 - DCG: nan - Hits@5: 0.5080 - MRR@5: 0.3051 - MRR@10: 0.3222 - MAP@5: 0.1346 - MAP@10: 0.1766 - NDCG: nan - OPA: 0.7149 - Precision@5: 0.1664 - Recall@5: 0.2421 - auc: 0.6389 - loss: -0.2370 - regularization_loss: 0.0000e+00 - total_loss: -0.2370                                              
+Epoch 21/100
+250/250 [==============================] - 1s 2ms/step - ARP: 5.5410 - DCG: nan - Hits@5: 0.4960 - MRR@5: 0.2860 - MRR@10: 0.3033 - MAP@5: 0.1316 - MAP@10: 0.1741 - NDCG: nan - OPA: 0.7051 - Precision@5: 0.1648 - Recall@5: 0.2364 - auc: 0.6260 - loss: -0.2284 - regularization_loss: 0.0000e+00 - total_loss: -0.2284                                              
+Epoch 22/100
+250/250 [==============================] - 1s 2ms/step - ARP: 11.6848 - DCG: nan - Hits@5: 0.4920 - MRR@5: 0.3055 - MRR@10: 0.3195 - MAP@5: 0.1290 - MAP@10: 0.1675 - NDCG: nan - OPA: 0.6825 - Precision@5: 0.1520 - Recall@5: 0.2161 - auc: 0.5204 - loss: -0.2096 - regularization_loss: 0.0000e+00 - total_loss: -0.2096           
+Epoch 23/100
+250/250 [==============================] - 1s 3ms/step - ARP: 4.4148 - DCG: nan - Hits@5: 0.5600 - MRR@5: 0.3401 - MRR@10: 0.3503 - MAP@5: 0.1668 - MAP@10: 0.2104 - NDCG: nan - OPA: 0.7221 - Precision@5: 0.1968 - Recall@5: 0.2815 - auc: 0.5559 - loss: -0.2763 - regularization_loss: 0.0000e+00 - total_loss: -0.2763
+Epoch 24/100
+250/250 [==============================] - 1s 3ms/step - ARP: 10.1372 - DCG: nan - Hits@5: 0.5320 - MRR@5: 0.4031 - MRR@10: 0.4171 - MAP@5: 0.1883 - MAP@10: 0.2285 - NDCG: nan - OPA: 0.6878 - Precision@5: 0.1912 - Recall@5: 0.2695 - auc: 0.5341 - loss: -0.2855 - regularization_loss: 0.0000e+00 - total_loss: -0.2855
+Epoch 25/100
+250/250 [==============================] - 1s 3ms/step - ARP: 6.5547 - DCG: nan - Hits@5: 0.5640 - MRR@5: 0.4427 - MRR@10: 0.4523 - MAP@5: 0.2206 - MAP@10: 0.2583 - NDCG: nan - OPA: 0.6989 - Precision@5: 0.2168 - Recall@5: 0.3003 - auc: 0.5457 - loss: -0.3185 - regularization_loss: 0.0000e+00 - total_loss: -0.3185           
+Epoch 26/100
+250/250 [==============================] - 1s 3ms/step - ARP: 4.6951 - DCG: nan - Hits@5: 0.5640 - MRR@5: 0.3930 - MRR@10: 0.4042 - MAP@5: 0.1957 - MAP@10: 0.2369 - NDCG: nan - OPA: 0.6971 - Precision@5: 0.2008 - Recall@5: 0.2896 - auc: 0.5472 - loss: -0.3174 - regularization_loss: 0.0000e+00 - total_loss: -0.3174
+Epoch 27/100
+250/250 [==============================] - 1s 3ms/step - ARP: 4.3655 - DCG: nan - Hits@5: 0.6000 - MRR@5: 0.4715 - MRR@10: 0.4765 - MAP@5: 0.2534 - MAP@10: 0.2914 - NDCG: nan - OPA: 0.7033 - Precision@5: 0.2128 - Recall@5: 0.3267 - auc: 0.5318 - loss: -0.3839 - regularization_loss: 0.0000e+00 - total_loss: -0.3839
+Epoch 28/100
+250/250 [==============================] - 1s 2ms/step - ARP: 4.3498 - DCG: nan - Hits@5: 0.6240 - MRR@5: 0.5085 - MRR@10: 0.5119 - MAP@5: 0.2873 - MAP@10: 0.3194 - NDCG: nan - OPA: 0.7107 - Precision@5: 0.2280 - Recall@5: 0.3603 - auc: 0.5328 - loss: -0.4177 - regularization_loss: 0.0000e+00 - total_loss: -0.4177
+Epoch 29/100
+250/250 [==============================] - 1s 3ms/step - ARP: 6.5264 - DCG: nan - Hits@5: 0.6160 - MRR@5: 0.4999 - MRR@10: 0.5047 - MAP@5: 0.2721 - MAP@10: 0.3125 - NDCG: nan - OPA: 0.6924 - Precision@5: 0.2128 - Recall@5: 0.3490 - auc: 0.5515 - loss: -0.3783 - regularization_loss: 0.0000e+00 - total_loss: -0.3783                                          
+Epoch 30/100
+250/250 [==============================] - 1s 3ms/step - ARP: 4.5614 - DCG: nan - Hits@5: 0.6160 - MRR@5: 0.5005 - MRR@10: 0.5058 - MAP@5: 0.2764 - MAP@10: 0.3134 - NDCG: nan - OPA: 0.7080 - Precision@5: 0.2160 - Recall@5: 0.3498 - auc: 0.5725 - loss: -0.4037 - regularization_loss: 0.0000e+00 - total_loss: -0.4037
+Epoch 31/100
+250/250 [==============================] - 1s 2ms/step - ARP: 3.9372 - DCG: nan - Hits@5: 0.6360 - MRR@5: 0.5306 - MRR@10: 0.5320 - MAP@5: 0.2764 - MAP@10: 0.3160 - NDCG: nan - OPA: 0.7224 - Precision@5: 0.2176 - Recall@5: 0.3489 - auc: 0.5732 - loss: -0.4178 - regularization_loss: 0.0000e+00 - total_loss: -0.4178                   
+Epoch 32/100
+250/250 [==============================] - 1s 3ms/step - ARP: 3.9193 - DCG: nan - Hits@5: 0.6080 - MRR@5: 0.5231 - MRR@10: 0.5275 - MAP@5: 0.2953 - MAP@10: 0.3292 - NDCG: nan - OPA: 0.7108 - Precision@5: 0.2152 - Recall@5: 0.3444 - auc: 0.5636 - loss: -0.4481 - regularization_loss: 0.0000e+00 - total_loss: -0.4481                                             
+Epoch 33/100
+250/250 [==============================] - 1s 3ms/step - ARP: 2.8406 - DCG: nan - Hits@5: 0.6360 - MRR@5: 0.5469 - MRR@10: 0.5492 - MAP@5: 0.3077 - MAP@10: 0.3503 - NDCG: nan - OPA: 0.7370 - Precision@5: 0.2296 - Recall@5: 0.3759 - auc: 0.5729 - loss: -0.4660 - regularization_loss: 0.0000e+00 - total_loss: -0.4660                                            
+Epoch 34/100
+250/250 [==============================] - 1s 3ms/step - ARP: 3.5621 - DCG: nan - Hits@5: 0.6320 - MRR@5: 0.5303 - MRR@10: 0.5331 - MAP@5: 0.2714 - MAP@10: 0.3129 - NDCG: nan - OPA: 0.7459 - Precision@5: 0.2280 - Recall@5: 0.3626 - auc: 0.5916 - loss: -0.4189 - regularization_loss: 0.0000e+00 - total_loss: -0.4189
+Epoch 35/100
+250/250 [==============================] - 1s 3ms/step - ARP: 3.0761 - DCG: nan - Hits@5: 0.6360 - MRR@5: 0.5463 - MRR@10: 0.5502 - MAP@5: 0.2993 - MAP@10: 0.3356 - NDCG: nan - OPA: 0.7614 - Precision@5: 0.2424 - Recall@5: 0.3855 - auc: 0.5816 - loss: -0.4486 - regularization_loss: 0.0000e+00 - total_loss: -0.4486                  
+Epoch 36/100
+250/250 [==============================] - 1s 2ms/step - ARP: 3.0864 - DCG: nan - Hits@5: 0.6240 - MRR@5: 0.5355 - MRR@10: 0.5396 - MAP@5: 0.2950 - MAP@10: 0.3363 - NDCG: nan - OPA: 0.7447 - Precision@5: 0.2336 - Recall@5: 0.3701 - auc: 0.5753 - loss: -0.4524 - regularization_loss: 0.0000e+00 - total_loss: -0.4524
+Epoch 37/100
+250/250 [==============================] - 1s 2ms/step - ARP: 3.1127 - DCG: nan - Hits@5: 0.6320 - MRR@5: 0.5713 - MRR@10: 0.5748 - MAP@5: 0.3308 - MAP@10: 0.3719 - NDCG: nan - OPA: 0.7411 - Precision@5: 0.2488 - Recall@5: 0.3880 - auc: 0.5681 - loss: -0.4661 - regularization_loss: 0.0000e+00 - total_loss: -0.4661
+Epoch 38/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.6749 - DCG: nan - Hits@5: 0.6360 - MRR@5: 0.5653 - MRR@10: 0.5677 - MAP@5: 0.3321 - MAP@10: 0.3772 - NDCG: nan - OPA: 0.7519 - Precision@5: 0.2512 - Recall@5: 0.3875 - auc: 0.5681 - loss: -0.4650 - regularization_loss: 0.0000e+00 - total_loss: -0.4650
+Epoch 39/100
+250/250 [==============================] - 1s 2ms/step - ARP: 3.1973 - DCG: nan - Hits@5: 0.6280 - MRR@5: 0.5407 - MRR@10: 0.5458 - MAP@5: 0.3080 - MAP@10: 0.3415 - NDCG: nan - OPA: 0.7440 - Precision@5: 0.2408 - Recall@5: 0.3840 - auc: 0.5566 - loss: -0.4354 - regularization_loss: 0.0000e+00 - total_loss: -0.4354                                             
+Epoch 40/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.7344 - DCG: nan - Hits@5: 0.6440 - MRR@5: 0.5662 - MRR@10: 0.5682 - MAP@5: 0.3281 - MAP@10: 0.3681 - NDCG: nan - OPA: 0.7624 - Precision@5: 0.2432 - Recall@5: 0.3911 - auc: 0.5584 - loss: -0.4750 - regularization_loss: 0.0000e+00 - total_loss: -0.4750                                              
+Epoch 41/100
+250/250 [==============================] - 1s 3ms/step - ARP: 2.7132 - DCG: nan - Hits@5: 0.6400 - MRR@5: 0.5749 - MRR@10: 0.5782 - MAP@5: 0.3432 - MAP@10: 0.3788 - NDCG: nan - OPA: 0.7662 - Precision@5: 0.2520 - Recall@5: 0.4106 - auc: 0.5717 - loss: -0.4769 - regularization_loss: 0.0000e+00 - total_loss: -0.4769                                            
+Epoch 42/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.6469 - DCG: nan - Hits@5: 0.6480 - MRR@5: 0.5995 - MRR@10: 0.6019 - MAP@5: 0.3668 - MAP@10: 0.4056 - NDCG: nan - OPA: 0.7700 - Precision@5: 0.2600 - Recall@5: 0.4200 - auc: 0.5722 - loss: -0.4948 - regularization_loss: 0.0000e+00 - total_loss: -0.4948
+Epoch 43/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.6048 - DCG: nan - Hits@5: 0.6480 - MRR@5: 0.6055 - MRR@10: 0.6084 - MAP@5: 0.3763 - MAP@10: 0.4124 - NDCG: nan - OPA: 0.7742 - Precision@5: 0.2704 - Recall@5: 0.4317 - auc: 0.5704 - loss: -0.4975 - regularization_loss: 0.0000e+00 - total_loss: -0.4975
+Epoch 44/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.5133 - DCG: nan - Hits@5: 0.6480 - MRR@5: 0.5983 - MRR@10: 0.6015 - MAP@5: 0.3770 - MAP@10: 0.4143 - NDCG: nan - OPA: 0.7763 - Precision@5: 0.2712 - Recall@5: 0.4288 - auc: 0.5655 - loss: -0.5019 - regularization_loss: 0.0000e+00 - total_loss: -0.5019
+Epoch 45/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.5320 - DCG: nan - Hits@5: 0.6480 - MRR@5: 0.5985 - MRR@10: 0.6022 - MAP@5: 0.3801 - MAP@10: 0.4211 - NDCG: nan - OPA: 0.7816 - Precision@5: 0.2712 - Recall@5: 0.4275 - auc: 0.5645 - loss: -0.4997 - regularization_loss: 0.0000e+00 - total_loss: -0.4997
+Epoch 46/100
+250/250 [==============================] - 1s 3ms/step - ARP: 2.5133 - DCG: nan - Hits@5: 0.6440 - MRR@5: 0.5988 - MRR@10: 0.6034 - MAP@5: 0.3775 - MAP@10: 0.4209 - NDCG: nan - OPA: 0.7799 - Precision@5: 0.2664 - Recall@5: 0.4224 - auc: 0.5637 - loss: -0.5070 - regularization_loss: 0.0000e+00 - total_loss: -0.5070
+Epoch 47/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.5705 - DCG: nan - Hits@5: 0.6440 - MRR@5: 0.5895 - MRR@10: 0.5940 - MAP@5: 0.3764 - MAP@10: 0.4186 - NDCG: nan - OPA: 0.7781 - Precision@5: 0.2656 - Recall@5: 0.4243 - auc: 0.5749 - loss: -0.5050 - regularization_loss: 0.0000e+00 - total_loss: -0.5050                                              
+Epoch 48/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.6342 - DCG: nan - Hits@5: 0.6400 - MRR@5: 0.5664 - MRR@10: 0.5717 - MAP@5: 0.3488 - MAP@10: 0.3948 - NDCG: nan - OPA: 0.7707 - Precision@5: 0.2608 - Recall@5: 0.4150 - auc: 0.5529 - loss: -0.4767 - regularization_loss: 0.0000e+00 - total_loss: -0.4767
+Epoch 49/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.5783 - DCG: nan - Hits@5: 0.6520 - MRR@5: 0.5905 - MRR@10: 0.5940 - MAP@5: 0.3717 - MAP@10: 0.4135 - NDCG: nan - OPA: 0.7724 - Precision@5: 0.2624 - Recall@5: 0.4301 - auc: 0.5744 - loss: -0.5013 - regularization_loss: 0.0000e+00 - total_loss: -0.5013                                              
+Epoch 50/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.7122 - DCG: nan - Hits@5: 0.6560 - MRR@5: 0.5939 - MRR@10: 0.5963 - MAP@5: 0.3859 - MAP@10: 0.4251 - NDCG: nan - OPA: 0.7785 - Precision@5: 0.2704 - Recall@5: 0.4459 - auc: 0.5897 - loss: -0.5117 - regularization_loss: 0.0000e+00 - total_loss: -0.5117
+Epoch 51/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.5281 - DCG: nan - Hits@5: 0.6600 - MRR@5: 0.5890 - MRR@10: 0.5908 - MAP@5: 0.3805 - MAP@10: 0.4240 - NDCG: nan - OPA: 0.7834 - Precision@5: 0.2744 - Recall@5: 0.4454 - auc: 0.5914 - loss: -0.5091 - regularization_loss: 0.0000e+00 - total_loss: -0.5091       
+Epoch 52/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.5315 - DCG: nan - Hits@5: 0.6640 - MRR@5: 0.5920 - MRR@10: 0.5935 - MAP@5: 0.3863 - MAP@10: 0.4266 - NDCG: nan - OPA: 0.7837 - Precision@5: 0.2768 - Recall@5: 0.4489 - auc: 0.5935 - loss: -0.5153 - regularization_loss: 0.0000e+00 - total_loss: -0.5153
+Epoch 53/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.5210 - DCG: nan - Hits@5: 0.6640 - MRR@5: 0.5920 - MRR@10: 0.5935 - MAP@5: 0.3901 - MAP@10: 0.4283 - NDCG: nan - OPA: 0.7848 - Precision@5: 0.2824 - Recall@5: 0.4548 - auc: 0.5905 - loss: -0.5120 - regularization_loss: 0.0000e+00 - total_loss: -0.5120
+Epoch 54/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.5101 - DCG: nan - Hits@5: 0.6640 - MRR@5: 0.5950 - MRR@10: 0.5965 - MAP@5: 0.3896 - MAP@10: 0.4301 - NDCG: nan - OPA: 0.7858 - Precision@5: 0.2784 - Recall@5: 0.4513 - auc: 0.5930 - loss: -0.5184 - regularization_loss: 0.0000e+00 - total_loss: -0.5184
+Epoch 55/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.5027 - DCG: nan - Hits@5: 0.6640 - MRR@5: 0.5950 - MRR@10: 0.5965 - MAP@5: 0.3913 - MAP@10: 0.4337 - NDCG: nan - OPA: 0.7868 - Precision@5: 0.2808 - Recall@5: 0.4529 - auc: 0.5922 - loss: -0.5180 - regularization_loss: 0.0000e+00 - total_loss: -0.5180                                              
+Epoch 56/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.4901 - DCG: nan - Hits@5: 0.6640 - MRR@5: 0.5950 - MRR@10: 0.5965 - MAP@5: 0.3924 - MAP@10: 0.4357 - NDCG: nan - OPA: 0.7894 - Precision@5: 0.2816 - Recall@5: 0.4542 - auc: 0.5924 - loss: -0.5157 - regularization_loss: 0.0000e+00 - total_loss: -0.5157       
+Epoch 57/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.4803 - DCG: nan - Hits@5: 0.6640 - MRR@5: 0.5950 - MRR@10: 0.5965 - MAP@5: 0.3946 - MAP@10: 0.4370 - NDCG: nan - OPA: 0.7912 - Precision@5: 0.2848 - Recall@5: 0.4564 - auc: 0.5909 - loss: -0.5159 - regularization_loss: 0.0000e+00 - total_loss: -0.5159
+Epoch 58/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.8125 - DCG: nan - Hits@5: 0.6480 - MRR@5: 0.5611 - MRR@10: 0.5653 - MAP@5: 0.3714 - MAP@10: 0.4082 - NDCG: nan - OPA: 0.7750 - Precision@5: 0.2752 - Recall@5: 0.4435 - auc: 0.5905 - loss: -0.4917 - regularization_loss: 0.0000e+00 - total_loss: -0.4917                    
+Epoch 59/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.7960 - DCG: nan - Hits@5: 0.6560 - MRR@5: 0.5601 - MRR@10: 0.5632 - MAP@5: 0.3646 - MAP@10: 0.4072 - NDCG: nan - OPA: 0.7806 - Precision@5: 0.2720 - Recall@5: 0.4406 - auc: 0.6023 - loss: -0.4923 - regularization_loss: 0.0000e+00 - total_loss: -0.4923
+Epoch 60/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.6257 - DCG: nan - Hits@5: 0.6600 - MRR@5: 0.5719 - MRR@10: 0.5742 - MAP@5: 0.3688 - MAP@10: 0.4092 - NDCG: nan - OPA: 0.7815 - Precision@5: 0.2736 - Recall@5: 0.4441 - auc: 0.6009 - loss: -0.4979 - regularization_loss: 0.0000e+00 - total_loss: -0.4979
+Epoch 61/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.6191 - DCG: nan - Hits@5: 0.6560 - MRR@5: 0.5771 - MRR@10: 0.5799 - MAP@5: 0.3832 - MAP@10: 0.4242 - NDCG: nan - OPA: 0.7826 - Precision@5: 0.2832 - Recall@5: 0.4563 - auc: 0.5864 - loss: -0.5102 - regularization_loss: 0.0000e+00 - total_loss: -0.5102                                             
+Epoch 62/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.6863 - DCG: nan - Hits@5: 0.6640 - MRR@5: 0.5847 - MRR@10: 0.5862 - MAP@5: 0.3723 - MAP@10: 0.4112 - NDCG: nan - OPA: 0.7832 - Precision@5: 0.2704 - Recall@5: 0.4400 - auc: 0.5860 - loss: -0.5178 - regularization_loss: 0.0000e+00 - total_loss: -0.5178                                            
+Epoch 63/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.6871 - DCG: nan - Hits@5: 0.6640 - MRR@5: 0.5924 - MRR@10: 0.5939 - MAP@5: 0.3879 - MAP@10: 0.4246 - NDCG: nan - OPA: 0.7847 - Precision@5: 0.2800 - Recall@5: 0.4477 - auc: 0.5901 - loss: -0.5293 - regularization_loss: 0.0000e+00 - total_loss: -0.5293                                              
+Epoch 64/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.6785 - DCG: nan - Hits@5: 0.6680 - MRR@5: 0.5941 - MRR@10: 0.5950 - MAP@5: 0.3908 - MAP@10: 0.4261 - NDCG: nan - OPA: 0.7863 - Precision@5: 0.2840 - Recall@5: 0.4502 - auc: 0.5865 - loss: -0.5329 - regularization_loss: 0.0000e+00 - total_loss: -0.5329                                             
+Epoch 65/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.6606 - DCG: nan - Hits@5: 0.6680 - MRR@5: 0.5941 - MRR@10: 0.5950 - MAP@5: 0.3921 - MAP@10: 0.4268 - NDCG: nan - OPA: 0.7877 - Precision@5: 0.2848 - Recall@5: 0.4509 - auc: 0.5855 - loss: -0.5303 - regularization_loss: 0.0000e+00 - total_loss: -0.5303             
+Epoch 66/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.5421 - DCG: nan - Hits@5: 0.6680 - MRR@5: 0.5967 - MRR@10: 0.5976 - MAP@5: 0.3930 - MAP@10: 0.4304 - NDCG: nan - OPA: 0.7890 - Precision@5: 0.2840 - Recall@5: 0.4514 - auc: 0.5857 - loss: -0.5346 - regularization_loss: 0.0000e+00 - total_loss: -0.5346                                              
+Epoch 67/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.5267 - DCG: nan - Hits@5: 0.6600 - MRR@5: 0.6033 - MRR@10: 0.6057 - MAP@5: 0.3960 - MAP@10: 0.4304 - NDCG: nan - OPA: 0.7905 - Precision@5: 0.2856 - Recall@5: 0.4539 - auc: 0.5897 - loss: -0.5353 - regularization_loss: 0.0000e+00 - total_loss: -0.5353
+Epoch 68/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.4875 - DCG: nan - Hits@5: 0.6600 - MRR@5: 0.6177 - MRR@10: 0.6200 - MAP@5: 0.4041 - MAP@10: 0.4397 - NDCG: nan - OPA: 0.7911 - Precision@5: 0.2776 - Recall@5: 0.4514 - auc: 0.5794 - loss: -0.5468 - regularization_loss: 0.0000e+00 - total_loss: -0.5468
+Epoch 69/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.4939 - DCG: nan - Hits@5: 0.6600 - MRR@5: 0.6183 - MRR@10: 0.6206 - MAP@5: 0.3983 - MAP@10: 0.4377 - NDCG: nan - OPA: 0.7909 - Precision@5: 0.2744 - Recall@5: 0.4424 - auc: 0.5768 - loss: -0.5460 - regularization_loss: 0.0000e+00 - total_loss: -0.5460                                              
+Epoch 70/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.5080 - DCG: nan - Hits@5: 0.6600 - MRR@5: 0.6183 - MRR@10: 0.6211 - MAP@5: 0.4022 - MAP@10: 0.4409 - NDCG: nan - OPA: 0.7921 - Precision@5: 0.2776 - Recall@5: 0.4463 - auc: 0.5807 - loss: -0.5507 - regularization_loss: 0.0000e+00 - total_loss: -0.5507                                              
+Epoch 71/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.5230 - DCG: nan - Hits@5: 0.6640 - MRR@5: 0.6191 - MRR@10: 0.6212 - MAP@5: 0.4001 - MAP@10: 0.4401 - NDCG: nan - OPA: 0.7922 - Precision@5: 0.2768 - Recall@5: 0.4445 - auc: 0.5834 - loss: -0.5508 - regularization_loss: 0.0000e+00 - total_loss: -0.5508
+Epoch 72/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.5035 - DCG: nan - Hits@5: 0.6640 - MRR@5: 0.6151 - MRR@10: 0.6168 - MAP@5: 0.3978 - MAP@10: 0.4388 - NDCG: nan - OPA: 0.7939 - Precision@5: 0.2776 - Recall@5: 0.4445 - auc: 0.5834 - loss: -0.5468 - regularization_loss: 0.0000e+00 - total_loss: -0.5468                                             
+Epoch 73/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.4969 - DCG: nan - Hits@5: 0.6640 - MRR@5: 0.6131 - MRR@10: 0.6148 - MAP@5: 0.3961 - MAP@10: 0.4368 - NDCG: nan - OPA: 0.7952 - Precision@5: 0.2784 - Recall@5: 0.4454 - auc: 0.5840 - loss: -0.5422 - regularization_loss: 0.0000e+00 - total_loss: -0.5422
+Epoch 74/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.5111 - DCG: nan - Hits@5: 0.6640 - MRR@5: 0.6131 - MRR@10: 0.6152 - MAP@5: 0.3962 - MAP@10: 0.4366 - NDCG: nan - OPA: 0.7944 - Precision@5: 0.2784 - Recall@5: 0.4460 - auc: 0.5844 - loss: -0.5438 - regularization_loss: 0.0000e+00 - total_loss: -0.5438  
+Epoch 75/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.5118 - DCG: nan - Hits@5: 0.6640 - MRR@5: 0.6140 - MRR@10: 0.6161 - MAP@5: 0.3965 - MAP@10: 0.4381 - NDCG: nan - OPA: 0.7944 - Precision@5: 0.2784 - Recall@5: 0.4454 - auc: 0.5855 - loss: -0.5445 - regularization_loss: 0.0000e+00 - total_loss: -0.5445
+Epoch 76/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.5013 - DCG: nan - Hits@5: 0.6640 - MRR@5: 0.6147 - MRR@10: 0.6168 - MAP@5: 0.3969 - MAP@10: 0.4389 - NDCG: nan - OPA: 0.7957 - Precision@5: 0.2800 - Recall@5: 0.4457 - auc: 0.5849 - loss: -0.5437 - regularization_loss: 0.0000e+00 - total_loss: -0.5437
+Epoch 77/100
+250/250 [==============================] - 1s 3ms/step - ARP: 2.4984 - DCG: nan - Hits@5: 0.6640 - MRR@5: 0.6147 - MRR@10: 0.6168 - MAP@5: 0.3966 - MAP@10: 0.4391 - NDCG: nan - OPA: 0.7962 - Precision@5: 0.2792 - Recall@5: 0.4452 - auc: 0.5839 - loss: -0.5427 - regularization_loss: 0.0000e+00 - total_loss: -0.5427            
+Epoch 78/100
+250/250 [==============================] - 1s 3ms/step - ARP: 2.4850 - DCG: nan - Hits@5: 0.6640 - MRR@5: 0.6147 - MRR@10: 0.6168 - MAP@5: 0.3984 - MAP@10: 0.4397 - NDCG: nan - OPA: 0.7967 - Precision@5: 0.2816 - Recall@5: 0.4469 - auc: 0.5839 - loss: -0.5431 - regularization_loss: 0.0000e+00 - total_loss: -0.5431
+Epoch 79/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.4867 - DCG: nan - Hits@5: 0.6640 - MRR@5: 0.6167 - MRR@10: 0.6188 - MAP@5: 0.4013 - MAP@10: 0.4424 - NDCG: nan - OPA: 0.7980 - Precision@5: 0.2824 - Recall@5: 0.4474 - auc: 0.5839 - loss: -0.5464 - regularization_loss: 0.0000e+00 - total_loss: -0.5464            
+Epoch 80/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.4842 - DCG: nan - Hits@5: 0.6640 - MRR@5: 0.6167 - MRR@10: 0.6188 - MAP@5: 0.4012 - MAP@10: 0.4432 - NDCG: nan - OPA: 0.7986 - Precision@5: 0.2816 - Recall@5: 0.4470 - auc: 0.5843 - loss: -0.5477 - regularization_loss: 0.0000e+00 - total_loss: -0.5477
+Epoch 81/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.4866 - DCG: nan - Hits@5: 0.6640 - MRR@5: 0.6167 - MRR@10: 0.6187 - MAP@5: 0.4023 - MAP@10: 0.4442 - NDCG: nan - OPA: 0.7987 - Precision@5: 0.2824 - Recall@5: 0.4473 - auc: 0.5839 - loss: -0.5468 - regularization_loss: 0.0000e+00 - total_loss: -0.5468                                             
+Epoch 82/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.4757 - DCG: nan - Hits@5: 0.6640 - MRR@5: 0.6167 - MRR@10: 0.6188 - MAP@5: 0.4030 - MAP@10: 0.4447 - NDCG: nan - OPA: 0.7972 - Precision@5: 0.2816 - Recall@5: 0.4492 - auc: 0.5807 - loss: -0.5477 - regularization_loss: 0.0000e+00 - total_loss: -0.5477
+Epoch 83/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.4611 - DCG: nan - Hits@5: 0.6640 - MRR@5: 0.6180 - MRR@10: 0.6201 - MAP@5: 0.4046 - MAP@10: 0.4458 - NDCG: nan - OPA: 0.7973 - Precision@5: 0.2816 - Recall@5: 0.4517 - auc: 0.5800 - loss: -0.5489 - regularization_loss: 0.0000e+00 - total_loss: -0.5489                                             
+Epoch 84/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.4416 - DCG: nan - Hits@5: 0.6640 - MRR@5: 0.6160 - MRR@10: 0.6182 - MAP@5: 0.4050 - MAP@10: 0.4463 - NDCG: nan - OPA: 0.7980 - Precision@5: 0.2808 - Recall@5: 0.4513 - auc: 0.5803 - loss: -0.5530 - regularization_loss: 0.0000e+00 - total_loss: -0.5530                       
+Epoch 85/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.4441 - DCG: nan - Hits@5: 0.6640 - MRR@5: 0.6160 - MRR@10: 0.6182 - MAP@5: 0.4060 - MAP@10: 0.4468 - NDCG: nan - OPA: 0.7983 - Precision@5: 0.2808 - Recall@5: 0.4523 - auc: 0.5822 - loss: -0.5499 - regularization_loss: 0.0000e+00 - total_loss: -0.5499
+Epoch 86/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.4776 - DCG: nan - Hits@5: 0.6640 - MRR@5: 0.6160 - MRR@10: 0.6182 - MAP@5: 0.4057 - MAP@10: 0.4484 - NDCG: nan - OPA: 0.7976 - Precision@5: 0.2808 - Recall@5: 0.4513 - auc: 0.5838 - loss: -0.5499 - regularization_loss: 0.0000e+00 - total_loss: -0.5499                                              
+Epoch 87/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.4454 - DCG: nan - Hits@5: 0.6640 - MRR@5: 0.6150 - MRR@10: 0.6172 - MAP@5: 0.4058 - MAP@10: 0.4489 - NDCG: nan - OPA: 0.7986 - Precision@5: 0.2816 - Recall@5: 0.4514 - auc: 0.5865 - loss: -0.5545 - regularization_loss: 0.0000e+00 - total_loss: -0.5545                                 
+Epoch 88/100
+250/250 [==============================] - 1s 3ms/step - ARP: 2.4427 - DCG: nan - Hits@5: 0.6680 - MRR@5: 0.6155 - MRR@10: 0.6170 - MAP@5: 0.4104 - MAP@10: 0.4521 - NDCG: nan - OPA: 0.8003 - Precision@5: 0.2872 - Recall@5: 0.4596 - auc: 0.5861 - loss: -0.5514 - regularization_loss: 0.0000e+00 - total_loss: -0.5514                                            
+Epoch 89/100
+250/250 [==============================] - 1s 3ms/step - ARP: 2.4356 - DCG: nan - Hits@5: 0.6680 - MRR@5: 0.6155 - MRR@10: 0.6170 - MAP@5: 0.4109 - MAP@10: 0.4524 - NDCG: nan - OPA: 0.8009 - Precision@5: 0.2872 - Recall@5: 0.4596 - auc: 0.5866 - loss: -0.5511 - regularization_loss: 0.0000e+00 - total_loss: -0.5511                     
+Epoch 90/100
+250/250 [==============================] - 1s 3ms/step - ARP: 2.4311 - DCG: nan - Hits@5: 0.6680 - MRR@5: 0.6155 - MRR@10: 0.6170 - MAP@5: 0.4092 - MAP@10: 0.4521 - NDCG: nan - OPA: 0.8014 - Precision@5: 0.2864 - Recall@5: 0.4576 - auc: 0.5867 - loss: -0.5529 - regularization_loss: 0.0000e+00 - total_loss: -0.5529
+Epoch 91/100
+250/250 [==============================] - 1s 3ms/step - ARP: 2.4277 - DCG: nan - Hits@5: 0.6680 - MRR@5: 0.6155 - MRR@10: 0.6170 - MAP@5: 0.4098 - MAP@10: 0.4528 - NDCG: nan - OPA: 0.8019 - Precision@5: 0.2872 - Recall@5: 0.4589 - auc: 0.5886 - loss: -0.5509 - regularization_loss: 0.0000e+00 - total_loss: -0.5509
+Epoch 92/100
+250/250 [==============================] - 1s 3ms/step - ARP: 2.4263 - DCG: nan - Hits@5: 0.6680 - MRR@5: 0.6157 - MRR@10: 0.6172 - MAP@5: 0.4104 - MAP@10: 0.4531 - NDCG: nan - OPA: 0.8027 - Precision@5: 0.2880 - Recall@5: 0.4603 - auc: 0.5886 - loss: -0.5531 - regularization_loss: 0.0000e+00 - total_loss: -0.5531
+Epoch 93/100
+250/250 [==============================] - 1s 3ms/step - ARP: 2.4311 - DCG: nan - Hits@5: 0.6680 - MRR@5: 0.6160 - MRR@10: 0.6177 - MAP@5: 0.4107 - MAP@10: 0.4532 - NDCG: nan - OPA: 0.8033 - Precision@5: 0.2880 - Recall@5: 0.4603 - auc: 0.5886 - loss: -0.5553 - regularization_loss: 0.0000e+00 - total_loss: -0.5553                     
+Epoch 94/100
+250/250 [==============================] - 1s 3ms/step - ARP: 2.4292 - DCG: nan - Hits@5: 0.6680 - MRR@5: 0.6160 - MRR@10: 0.6177 - MAP@5: 0.4107 - MAP@10: 0.4536 - NDCG: nan - OPA: 0.8038 - Precision@5: 0.2880 - Recall@5: 0.4603 - auc: 0.5886 - loss: -0.5553 - regularization_loss: 0.0000e+00 - total_loss: -0.5553          
+Epoch 95/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.4252 - DCG: nan - Hits@5: 0.6680 - MRR@5: 0.6160 - MRR@10: 0.6177 - MAP@5: 0.4115 - MAP@10: 0.4543 - NDCG: nan - OPA: 0.8044 - Precision@5: 0.2888 - Recall@5: 0.4623 - auc: 0.5886 - loss: -0.5555 - regularization_loss: 0.0000e+00 - total_loss: -0.5555
+Epoch 96/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.4235 - DCG: nan - Hits@5: 0.6680 - MRR@5: 0.6160 - MRR@10: 0.6177 - MAP@5: 0.4115 - MAP@10: 0.4545 - NDCG: nan - OPA: 0.8050 - Precision@5: 0.2888 - Recall@5: 0.4619 - auc: 0.5895 - loss: -0.5533 - regularization_loss: 0.0000e+00 - total_loss: -0.5533
+Epoch 97/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.4230 - DCG: nan - Hits@5: 0.6680 - MRR@5: 0.6160 - MRR@10: 0.6177 - MAP@5: 0.4117 - MAP@10: 0.4547 - NDCG: nan - OPA: 0.8050 - Precision@5: 0.2888 - Recall@5: 0.4619 - auc: 0.5900 - loss: -0.5521 - regularization_loss: 0.0000e+00 - total_loss: -0.5521                   
+Epoch 98/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.4226 - DCG: nan - Hits@5: 0.6720 - MRR@5: 0.6168 - MRR@10: 0.6179 - MAP@5: 0.4119 - MAP@10: 0.4548 - NDCG: nan - OPA: 0.8049 - Precision@5: 0.2896 - Recall@5: 0.4627 - auc: 0.5915 - loss: -0.5541 - regularization_loss: 0.0000e+00 - total_loss: -0.5541                                              
+Epoch 99/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.4222 - DCG: nan - Hits@5: 0.6720 - MRR@5: 0.6188 - MRR@10: 0.6199 - MAP@5: 0.4124 - MAP@10: 0.4553 - NDCG: nan - OPA: 0.8049 - Precision@5: 0.2896 - Recall@5: 0.4627 - auc: 0.5915 - loss: -0.5556 - regularization_loss: 0.0000e+00 - total_loss: -0.5556                                              
+Epoch 100/100
+250/250 [==============================] - 1s 2ms/step - ARP: 2.4246 - DCG: nan - Hits@5: 0.6720 - MRR@5: 0.6185 - MRR@10: 0.6194 - MAP@5: 0.4126 - MAP@10: 0.4546 - NDCG: nan - OPA: 0.8056 - Precision@5: 0.2904 - Recall@5: 0.4632 - auc: 0.5910 - loss: -0.5553 - regularization_loss: 0.0000e+00 - total_loss: -0.5553

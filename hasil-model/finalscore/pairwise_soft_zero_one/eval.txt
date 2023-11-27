@@ -1,0 +1,13 @@
+10/10 [==============================] - 2s 4ms/step - ARP: 8.1045 - DCG: 211938624.0000 - Hits@5: 0.0000e+00 - MRR@5: 0.0000e+00 - MRR@10: 0.0833 - MAP@5: 0.0000e+00 - MAP@10: 0.0278 - NDCG: 0.3004 - OPA: 0.7433 - Precision@5: 0.0000e+00 - Recall@5: 0.0000e+00 - auc: 0.0000e+00 - loss: 2.9675 - regularization_loss: 0.0000e+00 - total_loss: 2.9675
+ARP of the Pairwise Soft Zero One Model: 8.1045
+DCG of the Pairwise Soft Zero One Model: 211938624.0000
+Hits@5 of the Pairwise Soft Zero One Model: 0.0000
+MRR@5 of the Pairwise Soft Zero One Model: 0.0000
+MRR@10 of the Pairwise Soft Zero One Model: 0.0833
+MAP@5 of the Pairwise Soft Zero One Model: 0.0000
+MAP@10 of the Pairwise Soft Zero One Model: 0.0278
+NDCG of the Pairwise Soft Zero One Model: 0.3004
+OPA of the Pairwise Soft Zero One Model: 0.7433
+Precision@5 of the Pairwise Soft Zero One Model: 0.0000
+Recall@5 of the Pairwise Soft Zero One Model: 0.0000
+AUC of the Pairwise Soft Zero One Model: 0.0000

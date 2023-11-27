@@ -1,0 +1,13 @@
+10/10 [==============================] - 2s 3ms/step - ARP: 2.5503 - DCG: 363706248761180160.0000 - Hits@5: 0.5000 - MRR@5: 0.5000 - MRR@10: 0.5000 - MAP@5: 0.3333 - MAP@10: 0.3333 - NDCG: 0.4660 - OPA: 0.7742 - Precision@5: 0.2000 - Recall@5: 0.3333 - auc: 0.4783 - loss: -0.3992 - regularization_loss: 0.0000e+00 - total_loss: -0.3992        
+ARP of the Approx MRR Model: 2.5503
+DCG of the Approx MRR Model: 363706248761180160.0000
+Hits@5 of the Approx MRR Model: 0.5000
+MRR@5 of the Approx MRR Model: 0.5000
+MRR@10 of the Approx MRR Model: 0.5000
+MAP@5 of the Approx MRR Model: 0.3333
+MAP@10 of the Approx MRR Model: 0.3333
+NDCG of the Approx MRR Model: 0.4660
+OPA of the Approx MRR Model: 0.7742
+Precision@5 of the Approx MRR Model: 0.2000
+Recall@5 of the Approx MRR Model: 0.3333
+AUC of the Approx MRR Model: 0.4783

@@ -1,0 +1,13 @@
+10/10 [==============================] - 2s 3ms/step - ARP: 2.5764 - DCG: 576460752303423488.0000 - Hits@5: 0.5000 - MRR@5: 0.5000 - MRR@10: 0.5000 - MAP@5: 0.3333 - MAP@10: 0.3333 - NDCG: 0.6280 - OPA: 0.6882 - Precision@5: 0.2000 - Recall@5: 0.3333 - auc: 0.4891 - loss: 57.8541 - regularization_loss: 0.0000e+00 - total_loss: 57.8541         
+ARP of the CoupledRank Distil Model: 2.5764
+DCG of the CoupledRank Distil Model: 576460752303423488.0000
+Hits@5 of the CoupledRank Distil Model: 0.5000
+MRR@5 of the CoupledRank Distil Model: 0.5000
+MRR@10 of the CoupledRank Distil Model: 0.5000
+MAP@5 of the CoupledRank Distil Model: 0.3333
+MAP@10 of the CoupledRank Distil Model: 0.3333
+NDCG of the CoupledRank Distil Model: 0.6280
+OPA of the CoupledRank Distil Model: 0.6882
+Precision@5 of the CoupledRank Distil Model: 0.2000
+Recall@5 of the CoupledRank Distil Model: 0.3333
+AUC of the CoupledRank Distil Model: 0.4891

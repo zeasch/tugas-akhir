@@ -1,0 +1,13 @@
+10/10 [==============================] - 2s 3ms/step - ARP: 5.1506 - DCG: 205339448664129536.0000 - Hits@5: 0.5000 - MRR@5: 0.2500 - MRR@10: 0.3125 - MAP@5: 0.0833 - MAP@10: 0.2014 - NDCG: 0.3358 - OPA: 0.7527 - Precision@5: 0.1000 - Recall@5: 0.1667 - auc: 0.4783 - loss: 4.3744 - regularization_loss: 0.0000e+00 - total_loss: 4.3744
+ARP of the Pairwise Hinge Model: 5.1506
+DCG of the Pairwise Hinge Model: 205339448664129536.0000
+Hits@5 of the Pairwise Hinge Model: 0.5000
+MRR@5 of the Pairwise Hinge Model: 0.2500
+MRR@10 of the Pairwise Hinge Model: 0.3125
+MAP@5 of the Pairwise Hinge Model: 0.0833
+MAP@10 of the Pairwise Hinge Model: 0.2014
+NDCG of the Pairwise Hinge Model: 0.3358
+OPA of the Pairwise Hinge Model: 0.7527
+Precision@5 of the Pairwise Hinge Model: 0.1000
+Recall@5 of the Pairwise Hinge Model: 0.1667
+AUC of the Pairwise Hinge Model: 0.4783

@@ -1,0 +1,13 @@
+10/10 [==============================] - 3s 7ms/step - ARP: 10.4547 - DCG: 145609328.0000 - Hits@5: 0.5000 - MRR@5: 0.5000 - MRR@10: 0.5000 - MAP@5: 0.1667 - MAP@10: 0.2083 - NDCG: 0.2537 - OPA: 0.5800 - Precision@5: 0.1000 - Recall@5: 0.1667 - auc: 0.0000e+00 - loss: 24.0306 - regularization_loss: 0.0000e+00 - total_loss: 24.0306               
+ARP of the Mean Squared Model: 10.4547
+DCG of the Mean Squared Model: 145609328.0000
+Hits@5 of the Mean Squared Model: 0.5000
+MRR@5 of the Mean Squared Model: 0.5000
+MRR@10 of the Mean Squared Model: 0.5000
+MAP@5 of the Mean Squared Model: 0.1667
+MAP@10 of the Mean Squared Model: 0.2083
+NDCG of the Mean Squared Model: 0.2537
+OPA of the Mean Squared Model: 0.5800
+Precision@5 of the Mean Squared Model: 0.1000
+Recall@5 of the Mean Squared Model: 0.1667
+AUC of the Mean Squared Model: 0.0000

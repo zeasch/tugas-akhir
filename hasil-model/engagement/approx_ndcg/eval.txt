@@ -1,0 +1,13 @@
+10/10 [==============================] - 2s 3ms/step - ARP: 2.1752 - DCG: 363706248761180160.0000 - Hits@5: 0.5000 - MRR@5: 0.5000 - MRR@10: 0.5000 - MAP@5: 0.3333 - MAP@10: 0.3889 - NDCG: 0.4549 - OPA: 0.8172 - Precision@5: 0.2000 - Recall@5: 0.3333 - auc: 0.4565 - loss: -0.4526 - regularization_loss: 0.0000e+00 - total_loss: -0.4526         
+ARP of the Approx NDCG Model: 2.1752
+DCG of the Approx NDCG Model: 363706248761180160.0000
+Hits@5 of the Approx NDCG Model: 0.5000
+MRR@5 of the Approx NDCG Model: 0.5000
+MRR@10 of the Approx NDCG Model: 0.5000
+MAP@5 of the Approx NDCG Model: 0.3333
+MAP@10 of the Approx NDCG Model: 0.3889
+NDCG of the Approx NDCG Model: 0.4549
+OPA of the Approx NDCG Model: 0.8172
+Precision@5 of the Approx NDCG Model: 0.2000
+Recall@5 of the Approx NDCG Model: 0.3333
+AUC of the Approx NDCG Model: 0.4565

@@ -1,0 +1,13 @@
+10/10 [==============================] - 2s 3ms/step - ARP: 5.3068 - DCG: 223005456606429184.0000 - Hits@5: 0.5000 - MRR@5: 0.1250 - MRR@10: 0.1250 - MAP@5: 0.1083 - MAP@10: 0.1083 - NDCG: 0.4088 - OPA: 0.7634 - Precision@5: 0.2000 - Recall@5: 0.3333 - auc: 0.4402 - loss: -0.3861 - regularization_loss: 0.0000e+00 - total_loss: -0.3861        
+ARP of the Gumbel Approx NDCG Model: 5.3068
+DCG of the Gumbel Approx NDCG Model: 223005456606429184.0000
+Hits@5 of the Gumbel Approx NDCG Model: 0.5000
+MRR@5 of the Gumbel Approx NDCG Model: 0.1250
+MRR@10 of the Gumbel Approx NDCG Model: 0.1250
+MAP@5 of the Gumbel Approx NDCG Model: 0.1083
+MAP@10 of the Gumbel Approx NDCG Model: 0.1083
+NDCG of the Gumbel Approx NDCG Model: 0.4088
+OPA of the Gumbel Approx NDCG Model: 0.7634
+Precision@5 of the Gumbel Approx NDCG Model: 0.2000
+Recall@5 of the Gumbel Approx NDCG Model: 0.3333
+AUC of the Gumbel Approx NDCG Model: 0.4402

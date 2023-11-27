@@ -1,0 +1,13 @@
+10/10 [==============================] - 2s 3ms/step - ARP: 4.6783 - DCG: 223005456606429184.0000 - Hits@5: 0.5000 - MRR@5: 0.2500 - MRR@10: 0.2500 - MAP@5: 0.1500 - MAP@10: 0.1500 - NDCG: 0.3380 - OPA: 0.7204 - Precision@5: 0.2000 - Recall@5: 0.3333 - auc: 0.5625 - loss: 8.0530 - regularization_loss: 0.0000e+00 - total_loss: 8.0530         
+ARP of the Pairwise Logistic Model: 4.6783
+DCG of the Pairwise Logistic Model: 223005456606429184.0000
+Hits@5 of the Pairwise Logistic Model: 0.5000
+MRR@5 of the Pairwise Logistic Model: 0.2500
+MRR@10 of the Pairwise Logistic Model: 0.2500
+MAP@5 of the Pairwise Logistic Model: 0.1500
+MAP@10 of the Pairwise Logistic Model: 0.1500
+NDCG of the Pairwise Logistic Model: 0.3380
+OPA of the Pairwise Logistic Model: 0.7204
+Precision@5 of the Pairwise Logistic Model: 0.2000
+Recall@5 of the Pairwise Logistic Model: 0.3333
+AUC of the Pairwise Logistic Model: 0.5625

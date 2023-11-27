@@ -1,0 +1,13 @@
+10/10 [==============================] - 2s 4ms/step - ARP: 12.7200 - DCG: 0.9010 - Hits@5: 0.5000 - MRR@5: 0.1667 - MRR@10: 0.1667 - MAP@5: 0.0822 - MAP@10: 0.1112 - NDCG: 0.3863 - OPA: 0.5333 - Precision@5: 0.1400 - Recall@5: 0.2333 - auc: 0.5978 - loss: 60.5923 - regularization_loss: 0.0000e+00 - total_loss: 60.5923                         
+ARP of the ListMLE Model: 12.7200
+DCG of the ListMLE Model: 0.9010
+Hits@5 of the ListMLE Model: 0.5000
+MRR@5 of the ListMLE Model: 0.1667
+MRR@10 of the ListMLE Model: 0.1667
+MAP@5 of the ListMLE Model: 0.0822
+MAP@10 of the ListMLE Model: 0.1112
+NDCG of the ListMLE Model: 0.3863
+OPA of the ListMLE Model: 0.5333
+Precision@5 of the ListMLE Model: 0.1400
+Recall@5 of the ListMLE Model: 0.2333
+AUC of the ListMLE Model: 0.5978

@@ -1,0 +1,13 @@
+10/10 [==============================] - 2s 3ms/step - ARP: 7.5827 - DCG: 223005456606429184.0000 - Hits@5: 0.5000 - MRR@5: 0.1000 - MRR@10: 0.1000 - MAP@5: 0.0333 - MAP@10: 0.0667 - NDCG: 0.3025 - OPA: 0.4946 - Precision@5: 0.1000 - Recall@5: 0.1667 - auc: 0.5000 - loss: 8916.1044 - regularization_loss: 0.0000e+00 - total_loss: 8916.1044         
+ARP of the Pairwise MSE Model: 7.5827
+DCG of the Pairwise MSE Model: 223005456606429184.0000
+Hits@5 of the Pairwise MSE Model: 0.5000
+MRR@5 of the Pairwise MSE Model: 0.1000
+MRR@10 of the Pairwise MSE Model: 0.1000
+MAP@5 of the Pairwise MSE Model: 0.0333
+MAP@10 of the Pairwise MSE Model: 0.0667
+NDCG of the Pairwise MSE Model: 0.3025
+OPA of the Pairwise MSE Model: 0.4946
+Precision@5 of the Pairwise MSE Model: 0.1000
+Recall@5 of the Pairwise MSE Model: 0.1667
+AUC of the Pairwise MSE Model: 0.5000
